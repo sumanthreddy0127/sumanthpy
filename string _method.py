@@ -1,0 +1,29 @@
+# a,b,c,d,e=1,4,8,2,9
+# a,b,c,d,e=1,5,8,9
+# a=5
+# print(a,type(a))
+# d='sumanth'
+# print(d,type(d))
+# w=7.6
+# print(w,type(w))
+# c="action"
+# print(c,type(c))
+# t=7
+# print('%d'%t)
+# e='sumanth'
+# print('%s'%e)
+# r=4
+# print('%f'%r)
+# print('%.2f'%r)
+# print('%.1f'%r)
+# print(float(r))
+# print('%s'%r)
+# print('%i'%r)
+r=5.8
+# print('%i'%r)
+# print('%f'%r)
+# print('%.2f'%r)
+# print('%.4f'%r)
+# print('%.3f'%r)
+# print('%s'%r)
+print(str(r))
