@@ -1,0 +1,28 @@
+# b=input()
+# print("My name is",b)
+# print("My name is",b,sep="    ")
+# print("My name is",int(b))
+# print("My name is",float(b))
+# print("My name is"+' '+str(b))
+# print("My name is"+' '+b)
+
+# c=int(input("Enter your phone number:"))
+# print("your phone number is",c)
+# print("your phone number is",c,sep=" ")
+# print("your phone number is",int(c))
+# print("your phone number is",float(c))
+# print("your phone number is"+' '+str(c))
+
+# e=float(input("Enter your BMI:"))
+# print("your BMI is",e)
+# print("your BMI is",e,sep=" ")
+# print("your BMI is",int(e))
+# print("your BMI is",float(e))
+# print("your BMI is"+' '+str(e))
+
+name=input("Enter your name:")
+age=int(input("Enter your age:"))
+per=float(input("Emter your weight:"))
+
+# print(name,age,per)
+print(age,name,per)
